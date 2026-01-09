@@ -1,4 +1,4 @@
-# Automobiles EDA — Executive Fleet Analysis
+# Automobiles EDA: Executive Fleet Analysis
 
 This project performs a comprehensive exploratory data analysis of the [automobiles dataset](https://github.com/SarennahL-C/pf-automobiles/blob/06f05070a32629ea79a8ecd6d15d77bc4db9f9e6/automobile.txt), framed as an assignment to recommend **environmentally responsible executive cars** that balance cost, emissions, and performance. I approach data analytically and visually, aiming to uncover insights that support decision-making.
 
