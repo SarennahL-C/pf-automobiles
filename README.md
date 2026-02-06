@@ -4,8 +4,6 @@ This project presents a comprehensive **exploratory data analysis (EDA)** of an 
 
 The analysis combines structured data cleaning, statistical exploration, and visualisation to support **data-driven decision-making**. Particular emphasis is placed on transparency of assumptions, interpretation of relationships between variables, and clear communication of findings.
 
-![Illustration of a range of cars arranged in a horseshoe formation with a city skyline in the background](chevy_range_2025.jpg)
-
 ---
 
 ## What’s in this repository
